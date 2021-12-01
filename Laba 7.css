@@ -90,9 +90,10 @@ box-sizing: border-box;
     position: relative;
     float: left;
     z-index: 2;
-    font-size:  2.3125em;
+    font-size:  2.328em;
     color: beige;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: RalewayRegular; 
+    font-weight: 10 00;
     letter-spacing: 7px;
     margin-top: 25px;
     padding-left: 10px;
@@ -163,10 +164,13 @@ ul.ul_1 {
        height: auto;
        width: 100%;  
    }
-/**/
 .picture_1{
     -webkit-background: url("Бариста.jpg");
+    -o-background: url("Бариста.jpg");
+    -moz-background: url("Бариста.jpg");
     -webkit-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
     -webkit-background-repeat: no-repeat;
     -webkit-background-attachment: fixed;
     -webkit-background-position: center;
@@ -496,11 +500,11 @@ li{
     /*filter: brightness(77%);*/
     width: 100%;
     display: flex;
-    height: 662px;
+    height: 736px;
     margin-top: 97px;
 }
 .f_1{
-  width: 50%; 
+  width: 48%; 
 }
 .f_3{
     width: 25%; 
@@ -795,7 +799,7 @@ li{
         border: 1px solid #ccc;
     }
     .bg_footer {
-        height: 589px;
+        height: 742px;
     }
     .contact, .local, .hours {
         font-size: 19px;
@@ -832,13 +836,13 @@ li{
 @media screen and  (max-width:970px) {
     .butverch {
     margin-left: 93%;
-    margin-top: 544px;
+    margin-top: 754px;
     }
 }
 @media screen and  (max-width:568px) {
     .butverch {
         margin-left: 87%;
-        margin-top: 595px;
+        margin-top: 765px;
     }
 }
 @media screen and  (max-width:330px) {
@@ -869,7 +873,7 @@ li{
         grid-row-end: 3;
         height: 561px;
         margin-left: 0%;
-        margin-top: 53px;
+        margin-top: 88px;
     }
     .column {
         display: flex;
@@ -1110,7 +1114,7 @@ li.ft {
         font-size: 10px;
     }
     h2 {
-        font-size: 32px;
+        font-size: 25px;
     }
     .txt {
         font-size: 18px;
@@ -1231,7 +1235,7 @@ li.ft {
         font-size: 24px;
     }
 }
-@media screen and (max-width: 340px){
+@media screen and (max-width: 376px){
     .f_3 {
         margin-top: 460px;
         width: 98%;
@@ -1287,21 +1291,21 @@ li.ft {
         width: 29%;
     }
     .n1 {
-        height: 61vh;
+        height: 56vh;
     }
     .n2 {
-        margin-top: 491px;
+        margin-top: 486px;
         margin-left: -100%;
         height: 46vh;
         }
     .n3 {
-        margin-top: 870px;
-        margin-left: -99%;
+        margin-top: 877px;
+        margin-left: -100%;
         height: 49vh;
     }
     .n4 {
         height: 58vh;
-        margin-top: 1258px;
+        margin-top: 1294px;
         margin-left: -100%;
     }
     li {
