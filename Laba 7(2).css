@@ -1188,7 +1188,7 @@ hr{
     }
 
 }
-@media screen and  (max-width:279px) {
+@media screen and  (max-width:420px) {
     [alt="impuls1"]{
         display: none;
     }
@@ -1280,15 +1280,15 @@ hr{
     }
     .but4 {
         width: 30%;
-        margin-left: 69%;
-        margin-top: 86px;
+        margin-left: 66%;
+        margin-top: 108px;
         font-size: 13px;
     }
     .but2 {
         width: 52%;
     }
     .qQ {
-        margin-left: 41%;
+        margin-left: 33%;
         font-size: 13px;
     }
 }
