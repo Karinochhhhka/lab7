@@ -1234,7 +1234,7 @@ li.ft {
         font-size: 24px;
     }
 }
-@media screen and (max-width: 376px){
+@media screen and (max-width: 420px){
     .f_3 {
         margin-top: 460px;
         width: 98%;
