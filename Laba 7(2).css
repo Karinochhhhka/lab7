@@ -1053,7 +1053,7 @@ hr{
         margin: 0% 1% 5% 7%;
     }
 }
-@media screen and  (max-width:386px) {
+@media screen and  (max-width:420px) {
     .butverch {
         margin-left: 81%;
     }
